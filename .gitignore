@@ -1,0 +1,10 @@
+/build/
+
+/target/
+
+# filter eclipse file
+*.classpath
+*.project
+
+# filter eclipse dir
+/.settings/
